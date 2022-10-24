@@ -1,0 +1,14 @@
+.feedback__title {
+  text-align: center;
+  font-size: 30px;
+  margin: 0;
+  padding-bottom: 30px;
+}
+
+.sectionBlock {
+  padding: 30px;
+}
+
+.sectionBlock:last-child {
+  padding-top: 0;
+}

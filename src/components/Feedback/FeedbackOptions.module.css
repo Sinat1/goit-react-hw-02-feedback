@@ -1,0 +1,19 @@
+.feedback__btn {
+  border: none;
+  cursor: pointer;
+  width: 80px;
+  height: 20px;
+  border-radius: 6px;
+  background-color: #3b5998;
+  color: #fff;
+  font-weight: 600;
+  transition-property: transform;
+}
+
+.feedback__btn:hover {
+  transform: scale(1.2);
+}
+
+.feedback__btn:not(:last-child) {
+  margin-right: 20px;
+}

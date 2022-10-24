@@ -1,0 +1,23 @@
+.statisticsString {
+  text-align: center;
+  font-weight: 600;
+}
+
+.good {
+  color: green;
+  font-weight: 700;
+}
+
+.neutral {
+  color: orange;
+  font-weight: 700;
+}
+
+.bad {
+  color: orangered;
+  font-weight: 700;
+}
+
+.total {
+  font-weight: 700;
+}
